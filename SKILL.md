@@ -10,7 +10,7 @@ description: "[EN] I CAN do architecture diagram drawing.Generate and create .sv
 3. [opencode配置mcp方法](https://opencode.ai/docs/zh-cn/mcp-servers/)。
 4. 确定mcp-app-server与mcp-tool-server已启用，因为此技能要用到这两个mcp。
 
-# 需要的技能
+# 需要的open code技能
 | 技能                          | 与 SVG 的关联                      |
 | --------------------------- | ------------------------------ |
 | `frontend-ui-ux`            | 前端开发中经常处理 SVG，可以用代码操作 SVG      |
